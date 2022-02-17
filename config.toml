@@ -1,5 +1,5 @@
 baseURL = 'https://william-lbn.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '博观而约取，厚积而薄发'
 theme = 'hugo-theme-mini'
 publishDir = "docs"

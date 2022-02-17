@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>k8s源码剖析 on My New Hugo Site</title>
+    <title>k8s源码剖析 on 博观而约取，厚积而薄发</title>
     <link>https://william-lbn.github.io/blog/tags/k8s%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90/</link>
-    <description>Recent content in k8s源码剖析 on My New Hugo Site</description>
+    <description>Recent content in k8s源码剖析 on 博观而约取，厚积而薄发</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://william-lbn.github.io/blog/tags/k8s%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
