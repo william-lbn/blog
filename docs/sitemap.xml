@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/k8s%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90/</loc>
+    <loc>https://william-lbn.github.io/blog/tags/k8s%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/k8s-%E6%BA%90%E7%A0%81/</loc>
+    <loc>https://william-lbn.github.io/blog/posts/k8s-%E6%BA%90%E7%A0%81/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://william-lbn.github.io/blog/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://william-lbn.github.io/blog/posts/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://william-lbn.github.io/blog/tags/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://william-lbn.github.io/blog/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/css/</loc>
+    <loc>https://william-lbn.github.io/blog/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/html/</loc>
+    <loc>https://william-lbn.github.io/blog/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/markdown/</loc>
+    <loc>https://william-lbn.github.io/blog/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/markdown-syntax/</loc>
+    <loc>https://william-lbn.github.io/blog/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/syntax/</loc>
+    <loc>https://william-lbn.github.io/blog/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/themes/</loc>
+    <loc>https://william-lbn.github.io/blog/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/placeholder-text/</loc>
+    <loc>https://william-lbn.github.io/blog/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/text/</loc>
+    <loc>https://william-lbn.github.io/blog/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/math-typesetting/</loc>
+    <loc>https://william-lbn.github.io/blog/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/emoji/</loc>
+    <loc>https://william-lbn.github.io/blog/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/emoji-support/</loc>
+    <loc>https://william-lbn.github.io/blog/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://william-lbn.github.io/blog/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>
